@@ -1,6 +1,6 @@
 # 2025년 가을학기 / 대전대학교 AI융합학과 리눅스 강좌
 
-## 주차별 강의 계획
+## 🗓️ 주차별 강의 계획
 
 | **주차** | **날짜(화)** | **내용** |
 |------|-------------|------|
@@ -23,19 +23,19 @@
 
 > **참고:** 본 일정은 변경될 수 있습니다.
 
-## 멤버 목록
+## 🧑‍🤝‍🧑 멤버 목록
 
 |이름|깃헙 주소|
 |------|---|
 |백성*	|https://github.com/sbbaik/Linux |
 
 
-## 📂 묻고 답하기
+## 🗨️ 묻고 답하기
 
 - [토론(Discussions)](https://github.com/sbbaik/Linux/discussions)
 
 
-## FAQ
+## ❓FAQ
 
 <details open>
 <summary><b> chatGPT 적극 활용</b></summary>
