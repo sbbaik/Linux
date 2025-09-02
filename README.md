@@ -29,12 +29,10 @@
 |------|---|
 |백성*	|https://github.com/sbbaik/Linux |
 
-## 토론
-<p align="center">
-  <a href="https://github.com/username/repository-name/discussions">
-    <img src="https://img.shields.io/badge/GitHub-Discussions-brightgreen?style=for-the-badge&logo=github" alt="Join Discussions"/>
-  </a>
-</p>
+
+## 📂 묻고 답하기
+
+- [토론(Discussions)](https://github.com/sbbaik/Linux/discussions)
 
 
 ## FAQ
