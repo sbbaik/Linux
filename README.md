@@ -25,9 +25,15 @@
 
 ## 🧑‍🤝‍🧑 멤버 목록
 
-|이름|깃헙 주소|
-|------|---|
-|백성*	|https://github.com/sbbaik/Linux |
+|이름|깃헙 주소|이름|깃헙 주소|이름|깃헙 주소|
+|------|---|------|---|------|---|
+|정다*	|https://github.com/051123di-ux/rinux |강성*	|https://github.com/kjjjk1/kjjjk1 |정수*	|https://github.com/Sohyun-web/Linux |
+|최민*	|https://github.com/20221936minhyeok/20221936choiminhyeok |김동*	|https://github.com/DONGHA-0/dongha0 |양선*	|https://github.com/sunwoo157/Linux |
+|최윥*	|https://github.com/origei/20221937linux |김근*	|https://github.com/Kimgeunoh/Kimkeunoh-linux |윤철*	|https://github.com/Fadukfadukdcscs/younchulhwan |
+|구준*	|https://github.com/rnwnsah/linux |박제*	|https://github.com/Sebo1203/Park-jewoo |양재*	|https://github.com/yangyang049/linux |
+|장지*	|https://github.com/IllllIlllIlllI/- |오승*	|https://github.com/20221925/osh0329 |김영*	|https://github.com/dudtjr1/dudtjr |
+|윤승*	|https://github.com/yoonsm0320/Linux |최   *	|https://github.com/cjune100/cjune100 |송우*	|https://github.com/woorock/Linux |
+|이채*	|https://github.com/cherryy00/Linux |문성*	|https://github.com/hwani0828/Linux |박수*	|https://github.com/99geodetic/Linux |
 
 
 ## 🗨️ 묻고 답하기
