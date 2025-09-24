@@ -40,6 +40,7 @@
 |윤승* |https://github.com/yoonsm0320/Linux |최   * |https://github.com/cjune100/cjune100 |송우* |https://github.com/woorock/Linux |
 |이채* |https://github.com/cherryy00/Linux |문성* |https://github.com/hwani0828/Linux |박수* |https://github.com/99geodetic/Linux |
 |최도* |https://github.com/choidohyun3280/dohyun-linux2025 |이희* |https://github.com/dju21hjlee/2025-2-LINUX |최민* |https://github.com/20221936minhyeok/20221936choiminhyeok.git |
+|김우* |https://github.com/spacekim1129/kimwoojoo |
 
 </details>
 
