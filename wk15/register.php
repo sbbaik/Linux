@@ -11,8 +11,8 @@ if ($conn->connect_error) { // 연결 확인
 }
 // POST로 전송된 회원가입 정보 받기
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-   $username = $_POST['username’];
-   $email = $_POST['email’];
+   $username = $_POST['username'];
+   $email = $_POST['email'];
    $password = $_POST['password'];
 
    // 비밀번호 해싱

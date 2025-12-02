@@ -13,8 +13,8 @@ if ($conn->connect_error) { // 연결 확인
 
 // POST로 전송된 로그인 정보 받기
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-  $username = $_POST['username’];
-  $password = $_POST['password’];
+  $username = $_POST['username'];
+  $password = $_POST['password'];
 
    // 사용자 정보 조회 쿼리 실행
   $sql = "SELECT * FROM users WHERE username='$username'";
